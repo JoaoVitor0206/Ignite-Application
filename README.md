@@ -1,14 +1,43 @@
-# Ignite-Application
-Alert: Project not finished
+# Ignite Lab 01
+
+Sistema de aulas online patra devs, com Página inicial de login e página de acesso as aulas.
+
+### 📋 Pré-requisitos
+
+De que coisas você precisa para instalar o software e como instalá-lo?
+  *Visual Studio Code, ou sua IDE de preferência*
+  *Instalar React*
+  *Instalar dependências do Node para estilização, GraphQL e Apollo Client*
+  *Usar Hypergraph para autenticação e login no sistema*
+```
+
+### 🔧 Instalação
+
+Para iniciar o Projeto:
+Inicie o terminal e digite o comando do Vite para criar o projeto
+```
+Exemplo com NPM:
+ npm create vite@latest
+```
+
+Exemplo com Yarn:
+ yarn create vite
+```
+
+Finalizando a instalação abra o projeto no VS Code
+````
+
+## 🛠️ Construído com
+
+* [React JS] (https://pt-br.reactjs.org) - Framework utilizado
+* [Vite] (https://vitejs.dev) - Utilizado Vite para iniciar o projeto
 
 
+## ✒️ Autores do Projeto
 
-## 🛠️ &nbsp;Techs Used 
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React JS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
-![Node.JS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+* ** Diego Fernandes ** - *Professor de Programação* - (https://github.com/diego3g)
+* ** João Vitor** - *Desenvolvedor* - (https://github.com/JoaoVitor0206)
+
+
+---
           
